@@ -1,0 +1,1037 @@
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" ftp_hostname="ftp://ftp.joaquimbarreto.xyz" ftp_rootfolder="/public_html/joaquim.photography" exportTarget="FTP" domain="http://www.joaquim.photography" resolutions="1x" timestamp="1508331705092">
+  <folder name="css">
+    <file name="site_global.css" crc="4066720223"/>
+    <file name="master_a-master.css" crc="263906846" ref="the-dual:about:two-sportwomen:index:exhibitions:the-contingent-republic:coré:play:man-machine:spirit-of-phoenix:doublethink:faded-grandeur:a-jewel-story:gothic:torn:vegno:the-collector:coconut"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="the-dual:about:two-sportwomen:index:exhibitions:the-contingent-republic:coré:play:man-machine:spirit-of-phoenix:doublethink:faded-grandeur:a-jewel-story:gothic:torn:vegno:the-collector:coconut"/>
+    <file name="the-dual.css" crc="3945894605" ref="the-dual"/>
+    <file name="nomq_the-dual.css" crc="261469149" ref="the-dual"/>
+    <file name="about.css" crc="129823396" ref="about"/>
+    <file name="nomq_about.css" crc="3972900073" ref="about"/>
+    <file name="two-sportwomen.css" crc="4224159425" ref="two-sportwomen"/>
+    <file name="nomq_two-sportwomen.css" crc="204771917" ref="two-sportwomen"/>
+    <file name="index.css" crc="4030680299" ref="index"/>
+    <file name="nomq_index.css" crc="118657769" ref="index"/>
+    <file name="exhibitions.css" crc="4183192607" ref="exhibitions"/>
+    <file name="nomq_exhibitions.css" crc="4280038182" ref="exhibitions"/>
+    <file name="the-contingent-republic.css" crc="3775171939" ref="the-contingent-republic"/>
+    <file name="nomq_the-contingent-republic.css" crc="4074962590" ref="the-contingent-republic"/>
+    <file name="cor_.css" crc="19687378" ref="coré"/>
+    <file name="nomq_cor_.css" crc="3762983869" ref="coré"/>
+    <file name="play.css" crc="528868457" ref="play"/>
+    <file name="nomq_play.css" crc="129328034" ref="play"/>
+    <file name="man-machine.css" crc="4022447998" ref="man-machine"/>
+    <file name="nomq_man-machine.css" crc="259506561" ref="man-machine"/>
+    <file name="spirit-of-phoenix.css" crc="3976886945" ref="spirit-of-phoenix"/>
+    <file name="nomq_spirit-of-phoenix.css" crc="4264155994" ref="spirit-of-phoenix"/>
+    <file name="doublethink.css" crc="4068886986" ref="doublethink"/>
+    <file name="nomq_doublethink.css" crc="4054158833" ref="doublethink"/>
+    <file name="faded-grandeur.css" crc="4109957910" ref="faded-grandeur"/>
+    <file name="nomq_faded-grandeur.css" crc="3849567893" ref="faded-grandeur"/>
+    <file name="a-jewel-story.css" crc="4155116058" ref="a-jewel-story"/>
+    <file name="nomq_a-jewel-story.css" crc="4263608539" ref="a-jewel-story"/>
+    <file name="gothic.css" crc="3901059139" ref="gothic"/>
+    <file name="nomq_gothic.css" crc="441506860" ref="gothic"/>
+    <file name="torn.css" crc="4151103082" ref="torn"/>
+    <file name="nomq_torn.css" crc="306922766" ref="torn"/>
+    <file name="vegno.css" crc="447469538" ref="vegno"/>
+    <file name="nomq_vegno.css" crc="4087865032" ref="vegno"/>
+    <file name="the-collector.css" crc="4103502060" ref="the-collector"/>
+    <file name="nomq_the-collector.css" crc="190044730" ref="the-collector"/>
+    <file name="coconut.css" crc="535113881" ref="coconut"/>
+    <file name="nomq_coconut.css" crc="3806495610" ref="coconut"/>
+  </folder>
+  <folder name="assets">
+    <file name="helen-004113b.jpg" crc="3933823885" seo="true" mt="1507644075000"/>
+    <file name="helen-004102.jpg" crc="123502889" seo="true" mt="1507644107000"/>
+    <file name="helen-004113a.jpg" crc="198173389" seo="true" mt="1507644066000"/>
+    <file name="helen-004229.jpg" crc="260084762" seo="true" mt="1507644098000"/>
+    <file name="helen-004164.jpg" crc="386626765" seo="true" mt="1507644103000"/>
+    <file name="helen-004263.jpg" crc="165826863" seo="true" mt="1507644079000"/>
+    <file name="helen-004290.jpg" crc="4204680996" seo="true" mt="1507644083000"/>
+    <file name="helen-004251.jpg" crc="3880223084" seo="true" mt="1507644088000"/>
+    <file name="helen-004179.jpg" crc="415429304" seo="true" mt="1507644093000"/>
+    <file name="fashion-photography-1.jpg" crc="4276838765" seo="true" mt="1316274049000"/>
+    <file name="fashion-photography-2.jpg" crc="316927167" seo="true" mt="1316274052000"/>
+    <file name="fashion-photography-3.jpg" crc="349146859" seo="true" mt="1316274054000"/>
+    <file name="fashion-photography-4.jpg" crc="59405354" seo="true" mt="1507832122000"/>
+    <file name="fashion-photography-5.jpg" crc="188686099" seo="true" mt="1507831284000"/>
+    <file name="fashion-photography-6.jpg" crc="4278315649" seo="true" mt="1507831328000"/>
+    <file name="fashion-photography-12.jpg" crc="3772905751" seo="true" mt="1507832439000"/>
+    <file name="fashion-photography-22.jpg" crc="211159735" seo="true" mt="1507832451000"/>
+    <file name="fashion-photography-32.jpg" crc="295087198" seo="true" mt="1507832447000"/>
+    <file name="fashion-photography-42.jpg" crc="3837855314" seo="true" mt="1507832451000"/>
+    <file name="fashion-photography-52.jpg" crc="520330586" seo="true" mt="1507832450000"/>
+    <file name="fashion-photography-62.jpg" crc="32768579" seo="true" mt="1507832449000"/>
+    <file name="fashion-photography-7.jpg" crc="3868292657" seo="true" mt="1507832449000"/>
+    <file name="fashion-photography-8.jpg" crc="528989447" seo="true" mt="1507832452000"/>
+    <file name="coré-fashion-photography-1.jpg" crc="3841744987" seo="true" mt="1507836347000"/>
+    <file name="coré-fashion-photography-2.jpg" crc="160358333" seo="true" mt="1507836314000"/>
+    <file name="coré-fashion-photography-3.jpg" crc="4129264849" seo="true" mt="1507836338000"/>
+    <file name="coré-fashion-photography-4.jpg" crc="222660980" seo="true" mt="1507836279000"/>
+    <file name="coré-fashion-photography-5.jpg" crc="4201685014" seo="true" mt="1507836326000"/>
+    <file name="coré-fashion-photography-6.jpg" crc="193545067" seo="true" mt="1507836335000"/>
+    <file name="coré-fashion-photography-7.jpg" crc="4185010223" seo="true" mt="1507836332000"/>
+    <file name="coré-fashion-photography-8.jpg" crc="4274948374" seo="true" mt="1507836329000"/>
+    <file name="coré-fashion-photography-9.jpg" crc="132717278" seo="true" mt="1507836340000"/>
+    <file name="coré-fashion-photography-10.jpg" crc="478023798" seo="true" mt="1507836343000"/>
+    <file name="fashion-photography-13.jpg" crc="316790838" seo="true" mt="1507837761000"/>
+    <file name="fashion-photography-23.jpg" crc="264609953" seo="true" mt="1507837764000"/>
+    <file name="fashion-photography-33.jpg" crc="284294929" seo="true" mt="1507837702000"/>
+    <file name="fashion-photography-43.jpg" crc="315779363" seo="true" mt="1507837685000"/>
+    <file name="fashion-photography-53.jpg" crc="469445609" seo="true" mt="1507837711000"/>
+    <file name="fashion-photography-63.jpg" crc="510312246" seo="true" mt="1507837694000"/>
+    <file name="fashion-photography-72.jpg" crc="367590519" seo="true" mt="1507837758000"/>
+    <file name="fashion-photography-82.jpg" crc="3883569546" seo="true" mt="1507837672000"/>
+    <file name="fashion-photography-9.jpg" crc="3819497118" seo="true" mt="1507837763000"/>
+    <file name="fashion-photography-10.jpg" crc="446864941" seo="true" mt="1507837759000"/>
+    <file name="doublethink-fashion-photography-1.jpg" crc="4004772633" seo="true" mt="1507838568000"/>
+    <file name="doublethink-fashion-photography-2.jpg" crc="533073997" seo="true" mt="1507838572000"/>
+    <file name="doublethink-fashion-photography-3.jpg" crc="500539165" seo="true" mt="1507838574000"/>
+    <file name="doublethink-fashion-photography-4.jpg" crc="4213151519" seo="true" mt="1507838591000"/>
+    <file name="doublethink-fashion-photography-5.jpg" crc="235168583" seo="true" mt="1507838576000"/>
+    <file name="doublethink-fashion-photography-6.jpg" crc="4002071489" seo="true" mt="1507838588000"/>
+    <file name="doublethink-fashion-photography-7.jpg" crc="168122064" seo="true" mt="1507838587000"/>
+    <file name="doublethink-fashion-photography-8.jpg" crc="289105709" seo="true" mt="1507838544000"/>
+    <file name="manmachine-004775.jpg" crc="3782173989" seo="true" mt="1507839387000"/>
+    <file name="manmachine-004813.jpg" crc="4165179429" seo="true" mt="1507839503000"/>
+    <file name="manmachine-004834.jpg" crc="3971710709" seo="true" mt="1507839460000"/>
+    <file name="manmachine-004884.jpg" crc="405931250" seo="true" mt="1507839524000"/>
+    <file name="fashion-photography-14.jpg" crc="27729139" seo="true" mt="1507840078000"/>
+    <file name="fashion-photography-24.jpg" crc="372242959" seo="true" mt="1507840082000"/>
+    <file name="fashion-photography-34.jpg" crc="56096297" seo="true" mt="1507840083000"/>
+    <file name="fashion-photography-44.jpg" crc="4123117458" seo="true" mt="1507840014000"/>
+    <file name="fashion-photography-54.jpg" crc="149993858" seo="true" mt="1507840080000"/>
+    <file name="fashion-photography-64.jpg" crc="458977303" seo="true" mt="1507840062000"/>
+    <file name="fashion-photography-73.jpg" crc="4279430430" seo="true" mt="1507840076000"/>
+    <file name="fashion-photography-25.jpg" crc="372840369" seo="true" mt="1507840755000"/>
+    <file name="fashion-photography-35.jpg" crc="126093691" seo="true" mt="1507840743000"/>
+    <file name="fashion-photography-45.jpg" crc="54101649" seo="true" mt="1507840710000"/>
+    <file name="jewellery-photography-1.jpg" crc="401333284" seo="true" mt="1506965862000"/>
+    <file name="jewellery-photography-2.jpg" crc="3985769108" seo="true" mt="1506965849000"/>
+    <file name="jewellery-photography-3.jpg" crc="126871698" seo="true" mt="1359671952000"/>
+    <file name="jewellery-photography-5.jpg" crc="4098575756" seo="true" mt="1359671965000"/>
+    <file name="jewellery-photography-6.jpg" crc="10570641" seo="true" mt="1359671973000"/>
+    <file name="jewellery-photography-7.jpg" crc="78814126" seo="true" mt="1507657400000"/>
+    <file name="jewellery-photography-8.jpg" crc="213487633" seo="true" mt="1359672209000"/>
+    <file name="jewellery-photography-9.jpg" crc="53258779" seo="true" mt="1359672215000"/>
+    <file name="jewellery-photography-10.jpg" crc="4057153280" seo="true" mt="1359672221000"/>
+    <file name="jewellery-photography-11.jpg" crc="440550153" seo="true" mt="1506965873000"/>
+    <file name="jewellery-photography-12.jpg" crc="4039391465" seo="true" mt="1506965798000"/>
+    <file name="jewellery-photography-13.jpg" crc="426881311" seo="true" mt="1506965821000"/>
+    <file name="fashion-photography-15.jpg" crc="259567632" seo="true" mt="1234830990000"/>
+    <file name="fashion-photography-26.jpg" crc="392568877" seo="true" mt="1244032716000"/>
+    <file name="fashion-photography-36.jpg" crc="4199879241" seo="true" mt="1507842458000"/>
+    <file name="fashion-photography-46.jpg" crc="77777276" seo="true" mt="1252414362000"/>
+    <file name="fashion-photography-55.jpg" crc="3837013840" seo="true" mt="1236948173000"/>
+    <file name="fashion-photography-65.jpg" crc="4142965508" seo="true" mt="1236949303000"/>
+    <file name="fashion-photography-74.jpg" crc="473867688" seo="true" mt="1507842498000"/>
+    <file name="1_1_big.jpg" crc="3808484090" seo="true" mt="1300054275000"/>
+    <file name="1_2_big.jpg" crc="171104468" seo="true" mt="1300055657000"/>
+    <file name="1_3_big.jpg" crc="64139792" seo="true" mt="1300057618000"/>
+    <file name="1_4_big.jpg" crc="267821293" seo="true" mt="1300058308000"/>
+    <file name="2_1_big.jpg" crc="319123681" seo="true" mt="1300045377000"/>
+    <file name="2_2_big.jpg" crc="4205569280" seo="true" mt="1300051355000"/>
+    <file name="2_3_big.jpg" crc="167171805" seo="true" mt="1300052656000"/>
+    <file name="2_4_big.jpg" crc="3973525541" seo="true" mt="1300047274000"/>
+    <file name="3_1_big.jpg" crc="4857315" seo="true" mt="1300041288000"/>
+    <file name="3_2_big.jpg" crc="3875899936" seo="true" mt="1300042231000"/>
+    <file name="3_3_big.jpg" crc="288270316" seo="true" mt="1300043906000"/>
+    <file name="3_4_big.jpg" crc="78085758" seo="true" mt="1300036518000"/>
+    <file name="vegno-040-edit.jpg" crc="4151075328" seo="true" mt="1507899516000"/>
+    <file name="vegno-112-edit.jpg" crc="233337397" seo="true" mt="1507899476000"/>
+    <file name="vegno-224-edit.jpg" crc="4038305205" seo="true" mt="1507899403000"/>
+    <file name="vegno-225-edit.jpg" crc="4058050688" seo="true" mt="1507899462000"/>
+    <file name="vegno-217-edit.jpg" crc="4286523449" seo="true" mt="1507899631000"/>
+    <file name="macau-fashion-photography-1.jpg" crc="237901339" seo="true" mt="1507901835000"/>
+    <file name="macau-fashion-photography-2.jpg" crc="3995572641" seo="true" mt="1507901821000"/>
+    <file name="macau-fashion-photography-3.jpg" crc="530060337" seo="true" mt="1507901797000"/>
+    <file name="macau-fashion-photography-4.jpg" crc="4024222426" seo="true" mt="1507901920000"/>
+    <file name="macau-fashion-photography-5.jpg" crc="4035053444" seo="true" mt="1507901925000"/>
+    <file name="macau-fashion-photography-6.jpg" crc="4234771481" seo="true" mt="1507901877000"/>
+    <file name="macau-fashion-photography-7.jpg" crc="4202930137" seo="true" mt="1507902046000"/>
+    <file name="macau-fashion-photography-8.jpg" crc="271058995" seo="true" mt="1507901896000"/>
+    <file name="macau-fashion-photography-9.jpg" crc="185445686" seo="true" mt="1507901908000"/>
+    <file name="macau-fashion-photography-10.jpg" crc="4118527096" seo="true" mt="1507901863000"/>
+    <file name="macau-fashion-photography-11.jpg" crc="138806554" seo="true" mt="1507901884000"/>
+    <file name="_3a_00005.jpg" crc="381378216" seo="true" mt="1464168070000"/>
+    <file name="_3a_00107.jpg" crc="4144972299" seo="true" mt="1464168928000"/>
+    <file name="_4a_00006.jpg" crc="3801926289" seo="true" mt="1464168078000"/>
+    <file name="_4a_00108.jpg" crc="4188933329" seo="true" mt="1464168932000"/>
+    <file name="---_00039.jpg" crc="202373552" seo="true" mt="1464168486000"/>
+    <file name="---_00048.jpg" crc="248181996" seo="true" mt="1464168526000"/>
+    <file name="_7a_00099.jpg" crc="186022921" seo="true" mt="1464168888000"/>
+    <file name="25a_00026.jpg" crc="179632637" seo="true" mt="1464168146000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:exhibitions:two-sportwomen:the-dual:the-contingent-republic:coré:faded-grandeur:doublethink:man-machine:play:spirit-of-phoenix:a-jewel-story:gothic:torn:vegno:coconut:the-collector"/>
+    <file name="museutils.js" crc="17924269" ref="index:about:exhibitions:two-sportwomen:the-dual:the-contingent-republic:coré:faded-grandeur:doublethink:man-machine:play:spirit-of-phoenix:a-jewel-story:gothic:torn:vegno:coconut:the-collector"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:exhibitions:two-sportwomen:the-dual:the-contingent-republic:coré:faded-grandeur:doublethink:man-machine:play:spirit-of-phoenix:a-jewel-story:gothic:torn:vegno:coconut:the-collector"/>
+    <file name="museconfig.js" crc="278381782" ref="index:about:exhibitions:two-sportwomen:the-dual:the-contingent-republic:coré:faded-grandeur:doublethink:man-machine:play:spirit-of-phoenix:a-jewel-story:gothic:torn:vegno:coconut:the-collector"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index:about:exhibitions:two-sportwomen:the-dual:the-contingent-republic:coré:faded-grandeur:doublethink:man-machine:play:spirit-of-phoenix:a-jewel-story:gothic:torn:vegno:coconut:the-collector"/>
+    <file name="jquery.museresponsive.js" crc="4267800278" ref="index:about:exhibitions:two-sportwomen:the-dual:the-contingent-republic:coré:faded-grandeur:doublethink:man-machine:play:spirit-of-phoenix:a-jewel-story:gothic:torn:vegno:coconut:the-collector"/>
+    <file name="require.js" crc="3861931657" ref="index:about:exhibitions:two-sportwomen:the-dual:the-contingent-republic:coré:faded-grandeur:doublethink:man-machine:play:spirit-of-phoenix:a-jewel-story:gothic:torn:vegno:coconut:the-collector"/>
+  </folder>
+  <folder name="images">
+    <file name="new joaquim logo.png" crc="24684356" seo="true" ref="index:about:exhibitions:two-sportwomen:the-dual:the-contingent-republic:coré:faded-grandeur:doublethink:man-machine:play:spirit-of-phoenix:a-jewel-story:gothic:torn:vegno:coconut:the-collector">
+      <caption webpage="coré" alt=""/>
+      <caption webpage="coré" alt=""/>
+      <caption webpage="coré" alt=""/>
+      <caption webpage="coré" alt=""/>
+      <caption webpage="coré" alt=""/>
+      <caption webpage="play" alt=""/>
+      <caption webpage="play" alt=""/>
+      <caption webpage="play" alt=""/>
+      <caption webpage="play" alt=""/>
+      <caption webpage="play" alt=""/>
+      <caption webpage="exhibitions" alt=""/>
+      <caption webpage="exhibitions" alt=""/>
+      <caption webpage="exhibitions" alt=""/>
+      <caption webpage="exhibitions" alt=""/>
+      <caption webpage="exhibitions" alt=""/>
+      <caption webpage="doublethink" alt=""/>
+      <caption webpage="doublethink" alt=""/>
+      <caption webpage="doublethink" alt=""/>
+      <caption webpage="doublethink" alt=""/>
+      <caption webpage="doublethink" alt=""/>
+      <caption webpage="two-sportwomen" alt=""/>
+      <caption webpage="two-sportwomen" alt=""/>
+      <caption webpage="two-sportwomen" alt=""/>
+      <caption webpage="two-sportwomen" alt=""/>
+      <caption webpage="two-sportwomen" alt=""/>
+      <caption webpage="faded-grandeur" alt=""/>
+      <caption webpage="faded-grandeur" alt=""/>
+      <caption webpage="faded-grandeur" alt=""/>
+      <caption webpage="faded-grandeur" alt=""/>
+      <caption webpage="faded-grandeur" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="vegno" alt=""/>
+      <caption webpage="vegno" alt=""/>
+      <caption webpage="vegno" alt=""/>
+      <caption webpage="vegno" alt=""/>
+      <caption webpage="vegno" alt=""/>
+      <caption webpage="torn" alt=""/>
+      <caption webpage="torn" alt=""/>
+      <caption webpage="torn" alt=""/>
+      <caption webpage="torn" alt=""/>
+      <caption webpage="torn" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="a-jewel-story" alt=""/>
+      <caption webpage="a-jewel-story" alt=""/>
+      <caption webpage="a-jewel-story" alt=""/>
+      <caption webpage="a-jewel-story" alt=""/>
+      <caption webpage="a-jewel-story" alt=""/>
+      <caption webpage="the-contingent-republic" alt=""/>
+      <caption webpage="the-contingent-republic" alt=""/>
+      <caption webpage="the-contingent-republic" alt=""/>
+      <caption webpage="the-contingent-republic" alt=""/>
+      <caption webpage="the-contingent-republic" alt=""/>
+      <caption webpage="the-collector" alt=""/>
+      <caption webpage="the-collector" alt=""/>
+      <caption webpage="the-collector" alt=""/>
+      <caption webpage="the-collector" alt=""/>
+      <caption webpage="the-collector" alt=""/>
+      <caption webpage="spirit-of-phoenix" alt=""/>
+      <caption webpage="spirit-of-phoenix" alt=""/>
+      <caption webpage="spirit-of-phoenix" alt=""/>
+      <caption webpage="spirit-of-phoenix" alt=""/>
+      <caption webpage="spirit-of-phoenix" alt=""/>
+      <caption webpage="gothic" alt=""/>
+      <caption webpage="gothic" alt=""/>
+      <caption webpage="gothic" alt=""/>
+      <caption webpage="gothic" alt=""/>
+      <caption webpage="gothic" alt=""/>
+      <caption webpage="the-dual" alt=""/>
+      <caption webpage="the-dual" alt=""/>
+      <caption webpage="the-dual" alt=""/>
+      <caption webpage="the-dual" alt=""/>
+      <caption webpage="the-dual" alt=""/>
+      <caption webpage="man-machine" alt=""/>
+      <caption webpage="man-machine" alt=""/>
+      <caption webpage="man-machine" alt=""/>
+      <caption webpage="man-machine" alt=""/>
+      <caption webpage="man-machine" alt=""/>
+      <caption webpage="coconut" alt=""/>
+      <caption webpage="coconut" alt=""/>
+      <caption webpage="coconut" alt=""/>
+      <caption webpage="coconut" alt=""/>
+      <caption webpage="coconut" alt=""/>
+    </file>
+    <file name="helen-004102-crop-u12301.jpg" crc="3789003605" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gps01-instagram.png" crc="230949598" seo="true" ref="index:about:exhibitions:two-sportwomen:the-dual:the-contingent-republic:coré:faded-grandeur:doublethink:man-machine:play:spirit-of-phoenix:a-jewel-story:gothic:torn:vegno:coconut:the-collector">
+      <caption webpage="coré" alt=""/>
+      <caption webpage="coré" alt=""/>
+      <caption webpage="coré" alt=""/>
+      <caption webpage="coré" alt=""/>
+      <caption webpage="coré" alt=""/>
+      <caption webpage="play" alt=""/>
+      <caption webpage="play" alt=""/>
+      <caption webpage="play" alt=""/>
+      <caption webpage="play" alt=""/>
+      <caption webpage="play" alt=""/>
+      <caption webpage="exhibitions" alt=""/>
+      <caption webpage="exhibitions" alt=""/>
+      <caption webpage="exhibitions" alt=""/>
+      <caption webpage="exhibitions" alt=""/>
+      <caption webpage="exhibitions" alt=""/>
+      <caption webpage="doublethink" alt=""/>
+      <caption webpage="doublethink" alt=""/>
+      <caption webpage="doublethink" alt=""/>
+      <caption webpage="doublethink" alt=""/>
+      <caption webpage="doublethink" alt=""/>
+      <caption webpage="two-sportwomen" alt=""/>
+      <caption webpage="two-sportwomen" alt=""/>
+      <caption webpage="two-sportwomen" alt=""/>
+      <caption webpage="two-sportwomen" alt=""/>
+      <caption webpage="two-sportwomen" alt=""/>
+      <caption webpage="faded-grandeur" alt=""/>
+      <caption webpage="faded-grandeur" alt=""/>
+      <caption webpage="faded-grandeur" alt=""/>
+      <caption webpage="faded-grandeur" alt=""/>
+      <caption webpage="faded-grandeur" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="vegno" alt=""/>
+      <caption webpage="vegno" alt=""/>
+      <caption webpage="vegno" alt=""/>
+      <caption webpage="vegno" alt=""/>
+      <caption webpage="vegno" alt=""/>
+      <caption webpage="torn" alt=""/>
+      <caption webpage="torn" alt=""/>
+      <caption webpage="torn" alt=""/>
+      <caption webpage="torn" alt=""/>
+      <caption webpage="torn" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="a-jewel-story" alt=""/>
+      <caption webpage="a-jewel-story" alt=""/>
+      <caption webpage="a-jewel-story" alt=""/>
+      <caption webpage="a-jewel-story" alt=""/>
+      <caption webpage="a-jewel-story" alt=""/>
+      <caption webpage="the-contingent-republic" alt=""/>
+      <caption webpage="the-contingent-republic" alt=""/>
+      <caption webpage="the-contingent-republic" alt=""/>
+      <caption webpage="the-contingent-republic" alt=""/>
+      <caption webpage="the-contingent-republic" alt=""/>
+      <caption webpage="the-collector" alt=""/>
+      <caption webpage="the-collector" alt=""/>
+      <caption webpage="the-collector" alt=""/>
+      <caption webpage="the-collector" alt=""/>
+      <caption webpage="the-collector" alt=""/>
+      <caption webpage="spirit-of-phoenix" alt=""/>
+      <caption webpage="spirit-of-phoenix" alt=""/>
+      <caption webpage="spirit-of-phoenix" alt=""/>
+      <caption webpage="spirit-of-phoenix" alt=""/>
+      <caption webpage="spirit-of-phoenix" alt=""/>
+      <caption webpage="gothic" alt=""/>
+      <caption webpage="gothic" alt=""/>
+      <caption webpage="gothic" alt=""/>
+      <caption webpage="gothic" alt=""/>
+      <caption webpage="gothic" alt=""/>
+      <caption webpage="the-dual" alt=""/>
+      <caption webpage="the-dual" alt=""/>
+      <caption webpage="the-dual" alt=""/>
+      <caption webpage="the-dual" alt=""/>
+      <caption webpage="the-dual" alt=""/>
+      <caption webpage="man-machine" alt=""/>
+      <caption webpage="man-machine" alt=""/>
+      <caption webpage="man-machine" alt=""/>
+      <caption webpage="man-machine" alt=""/>
+      <caption webpage="man-machine" alt=""/>
+      <caption webpage="coconut" alt=""/>
+      <caption webpage="coconut" alt=""/>
+      <caption webpage="coconut" alt=""/>
+      <caption webpage="coconut" alt=""/>
+      <caption webpage="coconut" alt=""/>
+    </file>
+    <file name="gps01-facebook.png" crc="450580110" seo="true" ref="index:about:exhibitions:two-sportwomen:the-dual:the-contingent-republic:coré:faded-grandeur:doublethink:man-machine:play:spirit-of-phoenix:a-jewel-story:gothic:torn:vegno:coconut:the-collector">
+      <caption webpage="coré" alt=""/>
+      <caption webpage="coré" alt=""/>
+      <caption webpage="coré" alt=""/>
+      <caption webpage="coré" alt=""/>
+      <caption webpage="coré" alt=""/>
+      <caption webpage="play" alt=""/>
+      <caption webpage="play" alt=""/>
+      <caption webpage="play" alt=""/>
+      <caption webpage="play" alt=""/>
+      <caption webpage="play" alt=""/>
+      <caption webpage="exhibitions" alt=""/>
+      <caption webpage="exhibitions" alt=""/>
+      <caption webpage="exhibitions" alt=""/>
+      <caption webpage="exhibitions" alt=""/>
+      <caption webpage="exhibitions" alt=""/>
+      <caption webpage="doublethink" alt=""/>
+      <caption webpage="doublethink" alt=""/>
+      <caption webpage="doublethink" alt=""/>
+      <caption webpage="doublethink" alt=""/>
+      <caption webpage="doublethink" alt=""/>
+      <caption webpage="two-sportwomen" alt=""/>
+      <caption webpage="two-sportwomen" alt=""/>
+      <caption webpage="two-sportwomen" alt=""/>
+      <caption webpage="two-sportwomen" alt=""/>
+      <caption webpage="two-sportwomen" alt=""/>
+      <caption webpage="faded-grandeur" alt=""/>
+      <caption webpage="faded-grandeur" alt=""/>
+      <caption webpage="faded-grandeur" alt=""/>
+      <caption webpage="faded-grandeur" alt=""/>
+      <caption webpage="faded-grandeur" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="vegno" alt=""/>
+      <caption webpage="vegno" alt=""/>
+      <caption webpage="vegno" alt=""/>
+      <caption webpage="vegno" alt=""/>
+      <caption webpage="vegno" alt=""/>
+      <caption webpage="torn" alt=""/>
+      <caption webpage="torn" alt=""/>
+      <caption webpage="torn" alt=""/>
+      <caption webpage="torn" alt=""/>
+      <caption webpage="torn" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="a-jewel-story" alt=""/>
+      <caption webpage="a-jewel-story" alt=""/>
+      <caption webpage="a-jewel-story" alt=""/>
+      <caption webpage="a-jewel-story" alt=""/>
+      <caption webpage="a-jewel-story" alt=""/>
+      <caption webpage="the-contingent-republic" alt=""/>
+      <caption webpage="the-contingent-republic" alt=""/>
+      <caption webpage="the-contingent-republic" alt=""/>
+      <caption webpage="the-contingent-republic" alt=""/>
+      <caption webpage="the-contingent-republic" alt=""/>
+      <caption webpage="the-collector" alt=""/>
+      <caption webpage="the-collector" alt=""/>
+      <caption webpage="the-collector" alt=""/>
+      <caption webpage="the-collector" alt=""/>
+      <caption webpage="the-collector" alt=""/>
+      <caption webpage="spirit-of-phoenix" alt=""/>
+      <caption webpage="spirit-of-phoenix" alt=""/>
+      <caption webpage="spirit-of-phoenix" alt=""/>
+      <caption webpage="spirit-of-phoenix" alt=""/>
+      <caption webpage="spirit-of-phoenix" alt=""/>
+      <caption webpage="gothic" alt=""/>
+      <caption webpage="gothic" alt=""/>
+      <caption webpage="gothic" alt=""/>
+      <caption webpage="gothic" alt=""/>
+      <caption webpage="gothic" alt=""/>
+      <caption webpage="the-dual" alt=""/>
+      <caption webpage="the-dual" alt=""/>
+      <caption webpage="the-dual" alt=""/>
+      <caption webpage="the-dual" alt=""/>
+      <caption webpage="the-dual" alt=""/>
+      <caption webpage="man-machine" alt=""/>
+      <caption webpage="man-machine" alt=""/>
+      <caption webpage="man-machine" alt=""/>
+      <caption webpage="man-machine" alt=""/>
+      <caption webpage="man-machine" alt=""/>
+      <caption webpage="coconut" alt=""/>
+      <caption webpage="coconut" alt=""/>
+      <caption webpage="coconut" alt=""/>
+      <caption webpage="coconut" alt=""/>
+      <caption webpage="coconut" alt=""/>
+    </file>
+    <file name="gps01-twitter.png" crc="3964893960" seo="true" ref="index:about:exhibitions:two-sportwomen:the-dual:the-contingent-republic:coré:faded-grandeur:doublethink:man-machine:play:spirit-of-phoenix:a-jewel-story:gothic:torn:vegno:coconut:the-collector">
+      <caption webpage="coré" alt=""/>
+      <caption webpage="coré" alt=""/>
+      <caption webpage="coré" alt=""/>
+      <caption webpage="coré" alt=""/>
+      <caption webpage="coré" alt=""/>
+      <caption webpage="play" alt=""/>
+      <caption webpage="play" alt=""/>
+      <caption webpage="play" alt=""/>
+      <caption webpage="play" alt=""/>
+      <caption webpage="play" alt=""/>
+      <caption webpage="exhibitions" alt=""/>
+      <caption webpage="exhibitions" alt=""/>
+      <caption webpage="exhibitions" alt=""/>
+      <caption webpage="exhibitions" alt=""/>
+      <caption webpage="exhibitions" alt=""/>
+      <caption webpage="doublethink" alt=""/>
+      <caption webpage="doublethink" alt=""/>
+      <caption webpage="doublethink" alt=""/>
+      <caption webpage="doublethink" alt=""/>
+      <caption webpage="doublethink" alt=""/>
+      <caption webpage="two-sportwomen" alt=""/>
+      <caption webpage="two-sportwomen" alt=""/>
+      <caption webpage="two-sportwomen" alt=""/>
+      <caption webpage="two-sportwomen" alt=""/>
+      <caption webpage="two-sportwomen" alt=""/>
+      <caption webpage="faded-grandeur" alt=""/>
+      <caption webpage="faded-grandeur" alt=""/>
+      <caption webpage="faded-grandeur" alt=""/>
+      <caption webpage="faded-grandeur" alt=""/>
+      <caption webpage="faded-grandeur" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="vegno" alt=""/>
+      <caption webpage="vegno" alt=""/>
+      <caption webpage="vegno" alt=""/>
+      <caption webpage="vegno" alt=""/>
+      <caption webpage="vegno" alt=""/>
+      <caption webpage="torn" alt=""/>
+      <caption webpage="torn" alt=""/>
+      <caption webpage="torn" alt=""/>
+      <caption webpage="torn" alt=""/>
+      <caption webpage="torn" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="a-jewel-story" alt=""/>
+      <caption webpage="a-jewel-story" alt=""/>
+      <caption webpage="a-jewel-story" alt=""/>
+      <caption webpage="a-jewel-story" alt=""/>
+      <caption webpage="a-jewel-story" alt=""/>
+      <caption webpage="the-contingent-republic" alt=""/>
+      <caption webpage="the-contingent-republic" alt=""/>
+      <caption webpage="the-contingent-republic" alt=""/>
+      <caption webpage="the-contingent-republic" alt=""/>
+      <caption webpage="the-contingent-republic" alt=""/>
+      <caption webpage="the-collector" alt=""/>
+      <caption webpage="the-collector" alt=""/>
+      <caption webpage="the-collector" alt=""/>
+      <caption webpage="the-collector" alt=""/>
+      <caption webpage="the-collector" alt=""/>
+      <caption webpage="spirit-of-phoenix" alt=""/>
+      <caption webpage="spirit-of-phoenix" alt=""/>
+      <caption webpage="spirit-of-phoenix" alt=""/>
+      <caption webpage="spirit-of-phoenix" alt=""/>
+      <caption webpage="spirit-of-phoenix" alt=""/>
+      <caption webpage="gothic" alt=""/>
+      <caption webpage="gothic" alt=""/>
+      <caption webpage="gothic" alt=""/>
+      <caption webpage="gothic" alt=""/>
+      <caption webpage="gothic" alt=""/>
+      <caption webpage="the-dual" alt=""/>
+      <caption webpage="the-dual" alt=""/>
+      <caption webpage="the-dual" alt=""/>
+      <caption webpage="the-dual" alt=""/>
+      <caption webpage="the-dual" alt=""/>
+      <caption webpage="man-machine" alt=""/>
+      <caption webpage="man-machine" alt=""/>
+      <caption webpage="man-machine" alt=""/>
+      <caption webpage="man-machine" alt=""/>
+      <caption webpage="man-machine" alt=""/>
+      <caption webpage="coconut" alt=""/>
+      <caption webpage="coconut" alt=""/>
+      <caption webpage="coconut" alt=""/>
+      <caption webpage="coconut" alt=""/>
+      <caption webpage="coconut" alt=""/>
+    </file>
+    <file name="helen-004102-crop-u123012.jpg" crc="4193144759" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="helen-004102-crop-u123013.jpg" crc="4193144759" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="helen-004102-crop-u123014.jpg" crc="487021414" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="helen-004102-crop-u123015.jpg" crc="379408123" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:about:exhibitions:two-sportwomen:the-dual:the-contingent-republic:coré:faded-grandeur:doublethink:man-machine:play:spirit-of-phoenix:a-jewel-story:gothic:torn:vegno:coconut:the-collector"/>
+    <file name="facebook-20160315-042940.jpg" crc="4209607174" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="facebook-20160315-042940465x465.jpg" crc="458643206" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="facebook-20160315-042940403x403.jpg" crc="3777239086" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="fashion photography 3.jpg" crc="168438580" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fashion photography 8.jpg" crc="4007324724" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="coré-fashion photography 1.jpg" crc="34545513" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fashion photography 8-crop-u13073.jpg" crc="21960510" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="doublethink fashion photography 5.jpg" crc="4262700100" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fashion photography 7.jpg" crc="252754491" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fashion photography 2.jpg" crc="3819870015" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jewellery photography 2-crop-u12658.jpg" crc="303044134" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="manmachine-004813.jpg" crc="3771424119" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jewellery photography 2-crop-u126582.jpg" crc="303044134" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fashion photography 8-crop-u130732.jpg" crc="21960510" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jewellery photography 2-crop-u126583.jpg" crc="303044134" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fashion photography 8-crop-u130733.jpg" crc="21960510" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jewellery photography 2-crop-u126584.jpg" crc="3999351018" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fashion photography 8-crop-u130734.jpg" crc="116662049" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jewellery photography 2-crop-u126585.jpg" crc="4179491080" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fashion photography 8-crop-u130735.jpg" crc="4020949012" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fashion photography 5-crop-u12797.jpg" crc="3953625731" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fashion photography 5-crop-u127972.jpg" crc="3953625731" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fashion photography 5-crop-u127973.jpg" crc="3953625731" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fashion photography 5-crop-u127974.jpg" crc="3789506400" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fashion photography 5-crop-u127975.jpg" crc="4106990894" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3_2_big.jpg" crc="4029135653" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="joaquimbarreto.jpg" crc="4221836200" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vegno 217 edit-crop-u12934.jpg" crc="257265747" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="the collector invite photo only-crop-u12936.jpg" crc="4158177982" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vegno 217 edit-crop-u129342.jpg" crc="98688563" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="the collector invite photo only-crop-u129362.jpg" crc="4158177982" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vegno 217 edit-crop-u129343.jpg" crc="98688563" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="the collector invite photo only-crop-u129363.jpg" crc="4158177982" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vegno 217 edit-crop-u129344.jpg" crc="115185012" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="the collector invite photo only-crop-u129364.jpg" crc="145759625" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vegno 217 edit-crop-u129345.jpg" crc="4197083470" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="the collector invite photo only-crop-u129365.jpg" crc="3986419031" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="coré-fashion photography 1256x225.jpg" crc="138374878" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="doublethink fashion photography 5225x225.jpg" crc="3986164295" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fashion photography 3225x225.jpg" crc="4065201150" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fashion photography 8225x225.jpg" crc="460861301" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fashion photography 7225x225.jpg" crc="3968090804" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fashion photography 2225x225.jpg" crc="433151336" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3_2_big225x225.jpg" crc="3773470498" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="manmachine-004813225x225.jpg" crc="439790817" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="joaquimbarreto225x227.jpg" crc="4239323328" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3959075476" seo="true" mt="1508331285745" redirect="true"/>
+  <file name="about.html" crc="3811678389" seo="true" mt="1508331285745" redirect="true"/>
+  <file name="exhibitions.html" crc="199266479" seo="true" mt="1508331285745" redirect="true"/>
+  <file name="two-sportwomen.html" crc="4256701943" seo="true" mt="1508331285745" redirect="true"/>
+  <file name="the-dual.html" crc="292765704" seo="true" mt="1508331285745" redirect="true"/>
+  <file name="the-contingent-republic.html" crc="4157155196" seo="true" mt="1508331285745" redirect="true"/>
+  <file name="coré.html" crc="3944860920" seo="true" mt="1508331285745" redirect="true"/>
+  <file name="faded-grandeur.html" crc="159629107" seo="true" mt="1508331285745" redirect="true"/>
+  <file name="doublethink.html" crc="207010068" seo="true" mt="1508331285745" redirect="true"/>
+  <file name="man-machine.html" crc="531657405" seo="true" mt="1508331285745" redirect="true"/>
+  <file name="play.html" crc="3869073477" seo="true" mt="1508331285745" redirect="true"/>
+  <file name="spirit-of-phoenix.html" crc="4189231203" seo="true" mt="1508331285745" redirect="true"/>
+  <file name="a-jewel-story.html" crc="4193844005" seo="true" mt="1508331285745" redirect="true"/>
+  <file name="gothic.html" crc="322423410" seo="true" mt="1508331285745" redirect="true"/>
+  <file name="torn.html" crc="219774758" seo="true" mt="1508331285745" redirect="true"/>
+  <file name="vegno.html" crc="4211678446" seo="true" mt="1508331285745" redirect="true"/>
+  <file name="coconut.html" crc="161056534" seo="true" mt="1508331285745" redirect="true"/>
+  <file name="the-collector.html" crc="339352314" seo="true" mt="1508331285745" redirect="true"/>
+  <site>
+    <asset filename="helen-004113b.jpg" muse_href="upload:U11878"/>
+    <asset filename="helen-004102.jpg" muse_href="upload:U11880"/>
+    <asset filename="helen-004113a.jpg" muse_href="upload:U11885"/>
+    <asset filename="helen-004229.jpg" muse_href="upload:U11927"/>
+    <asset filename="helen-004164.jpg" muse_href="upload:U11939"/>
+    <asset filename="helen-004263.jpg" muse_href="upload:U11941"/>
+    <asset filename="helen-004290.jpg" muse_href="upload:U11943"/>
+    <asset filename="helen-004251.jpg" muse_href="upload:U11951"/>
+    <asset filename="helen-004179.jpg" muse_href="upload:U11953"/>
+    <asset filename="fashion-photography-1.jpg" muse_href="upload:U12385"/>
+    <asset filename="fashion-photography-2.jpg" muse_href="upload:U12387"/>
+    <asset filename="fashion-photography-3.jpg" muse_href="upload:U12389"/>
+    <asset filename="fashion-photography-4.jpg" muse_href="upload:U12391"/>
+    <asset filename="fashion-photography-5.jpg" muse_href="upload:U12393"/>
+    <asset filename="fashion-photography-6.jpg" muse_href="upload:U12395"/>
+    <asset filename="fashion-photography-12.jpg" muse_href="upload:U12570"/>
+    <asset filename="fashion-photography-22.jpg" muse_href="upload:U12572"/>
+    <asset filename="fashion-photography-32.jpg" muse_href="upload:U12574"/>
+    <asset filename="fashion-photography-42.jpg" muse_href="upload:U12576"/>
+    <asset filename="fashion-photography-52.jpg" muse_href="upload:U12578"/>
+    <asset filename="fashion-photography-62.jpg" muse_href="upload:U12580"/>
+    <asset filename="fashion-photography-7.jpg" muse_href="upload:U12582"/>
+    <asset filename="fashion-photography-8.jpg" muse_href="upload:U12584"/>
+    <asset filename="coré-fashion-photography-1.jpg" muse_href="upload:U13389"/>
+    <asset filename="coré-fashion-photography-2.jpg" muse_href="upload:U13391"/>
+    <asset filename="coré-fashion-photography-3.jpg" muse_href="upload:U13393"/>
+    <asset filename="coré-fashion-photography-4.jpg" muse_href="upload:U13395"/>
+    <asset filename="coré-fashion-photography-5.jpg" muse_href="upload:U13397"/>
+    <asset filename="coré-fashion-photography-6.jpg" muse_href="upload:U13399"/>
+    <asset filename="coré-fashion-photography-7.jpg" muse_href="upload:U13401"/>
+    <asset filename="coré-fashion-photography-8.jpg" muse_href="upload:U13403"/>
+    <asset filename="coré-fashion-photography-9.jpg" muse_href="upload:U13405"/>
+    <asset filename="coré-fashion-photography-10.jpg" muse_href="upload:U13407"/>
+    <asset filename="fashion-photography-13.jpg" muse_href="upload:U13629"/>
+    <asset filename="fashion-photography-23.jpg" muse_href="upload:U13631"/>
+    <asset filename="fashion-photography-33.jpg" muse_href="upload:U13633"/>
+    <asset filename="fashion-photography-43.jpg" muse_href="upload:U13635"/>
+    <asset filename="fashion-photography-53.jpg" muse_href="upload:U13637"/>
+    <asset filename="fashion-photography-63.jpg" muse_href="upload:U13639"/>
+    <asset filename="fashion-photography-72.jpg" muse_href="upload:U13641"/>
+    <asset filename="fashion-photography-82.jpg" muse_href="upload:U13643"/>
+    <asset filename="fashion-photography-9.jpg" muse_href="upload:U13645"/>
+    <asset filename="fashion-photography-10.jpg" muse_href="upload:U13647"/>
+    <asset filename="doublethink-fashion-photography-1.jpg" muse_href="upload:U13822"/>
+    <asset filename="doublethink-fashion-photography-2.jpg" muse_href="upload:U13824"/>
+    <asset filename="doublethink-fashion-photography-3.jpg" muse_href="upload:U13826"/>
+    <asset filename="doublethink-fashion-photography-4.jpg" muse_href="upload:U13828"/>
+    <asset filename="doublethink-fashion-photography-5.jpg" muse_href="upload:U13830"/>
+    <asset filename="doublethink-fashion-photography-6.jpg" muse_href="upload:U13832"/>
+    <asset filename="doublethink-fashion-photography-7.jpg" muse_href="upload:U13834"/>
+    <asset filename="doublethink-fashion-photography-8.jpg" muse_href="upload:U13836"/>
+    <asset filename="manmachine-004775.jpg" muse_href="upload:U14047"/>
+    <asset filename="manmachine-004813.jpg" muse_href="upload:U14049"/>
+    <asset filename="manmachine-004834.jpg" muse_href="upload:U14051"/>
+    <asset filename="manmachine-004884.jpg" muse_href="upload:U14053"/>
+    <asset filename="fashion-photography-14.jpg" muse_href="upload:U14246"/>
+    <asset filename="fashion-photography-24.jpg" muse_href="upload:U14248"/>
+    <asset filename="fashion-photography-34.jpg" muse_href="upload:U14250"/>
+    <asset filename="fashion-photography-44.jpg" muse_href="upload:U14252"/>
+    <asset filename="fashion-photography-54.jpg" muse_href="upload:U14254"/>
+    <asset filename="fashion-photography-64.jpg" muse_href="upload:U14256"/>
+    <asset filename="fashion-photography-73.jpg" muse_href="upload:U14258"/>
+    <asset filename="fashion-photography-25.jpg" muse_href="upload:U14451"/>
+    <asset filename="fashion-photography-35.jpg" muse_href="upload:U14453"/>
+    <asset filename="fashion-photography-45.jpg" muse_href="upload:U14455"/>
+    <asset filename="jewellery-photography-1.jpg" muse_href="upload:U14641"/>
+    <asset filename="jewellery-photography-2.jpg" muse_href="upload:U14643"/>
+    <asset filename="jewellery-photography-3.jpg" muse_href="upload:U14645"/>
+    <asset filename="jewellery-photography-5.jpg" muse_href="upload:U14647"/>
+    <asset filename="jewellery-photography-6.jpg" muse_href="upload:U14649"/>
+    <asset filename="jewellery-photography-7.jpg" muse_href="upload:U14651"/>
+    <asset filename="jewellery-photography-8.jpg" muse_href="upload:U14653"/>
+    <asset filename="jewellery-photography-9.jpg" muse_href="upload:U14655"/>
+    <asset filename="jewellery-photography-10.jpg" muse_href="upload:U14657"/>
+    <asset filename="jewellery-photography-11.jpg" muse_href="upload:U14659"/>
+    <asset filename="jewellery-photography-12.jpg" muse_href="upload:U14661"/>
+    <asset filename="jewellery-photography-13.jpg" muse_href="upload:U14663"/>
+    <asset filename="fashion-photography-15.jpg" muse_href="upload:U14874"/>
+    <asset filename="fashion-photography-26.jpg" muse_href="upload:U14876"/>
+    <asset filename="fashion-photography-36.jpg" muse_href="upload:U14878"/>
+    <asset filename="fashion-photography-46.jpg" muse_href="upload:U14880"/>
+    <asset filename="fashion-photography-55.jpg" muse_href="upload:U14882"/>
+    <asset filename="fashion-photography-65.jpg" muse_href="upload:U14884"/>
+    <asset filename="fashion-photography-74.jpg" muse_href="upload:U14886"/>
+    <asset filename="1_1_big.jpg" muse_href="upload:U15686"/>
+    <asset filename="1_2_big.jpg" muse_href="upload:U15688"/>
+    <asset filename="1_3_big.jpg" muse_href="upload:U15690"/>
+    <asset filename="1_4_big.jpg" muse_href="upload:U15692"/>
+    <asset filename="2_1_big.jpg" muse_href="upload:U15719"/>
+    <asset filename="2_2_big.jpg" muse_href="upload:U15721"/>
+    <asset filename="2_3_big.jpg" muse_href="upload:U15723"/>
+    <asset filename="2_4_big.jpg" muse_href="upload:U15725"/>
+    <asset filename="3_1_big.jpg" muse_href="upload:U15727"/>
+    <asset filename="3_2_big.jpg" muse_href="upload:U15729"/>
+    <asset filename="3_3_big.jpg" muse_href="upload:U15731"/>
+    <asset filename="3_4_big.jpg" muse_href="upload:U15733"/>
+    <asset filename="vegno-040-edit.jpg" muse_href="upload:U15735"/>
+    <asset filename="vegno-112-edit.jpg" muse_href="upload:U15737"/>
+    <asset filename="vegno-224-edit.jpg" muse_href="upload:U15741"/>
+    <asset filename="vegno-225-edit.jpg" muse_href="upload:U15743"/>
+    <asset filename="vegno-217-edit.jpg" muse_href="upload:U15745"/>
+    <asset filename="macau-fashion-photography-1.jpg" muse_href="upload:U15776"/>
+    <asset filename="macau-fashion-photography-2.jpg" muse_href="upload:U15778"/>
+    <asset filename="macau-fashion-photography-3.jpg" muse_href="upload:U15780"/>
+    <asset filename="macau-fashion-photography-4.jpg" muse_href="upload:U15782"/>
+    <asset filename="macau-fashion-photography-5.jpg" muse_href="upload:U15784"/>
+    <asset filename="macau-fashion-photography-6.jpg" muse_href="upload:U15786"/>
+    <asset filename="macau-fashion-photography-7.jpg" muse_href="upload:U15788"/>
+    <asset filename="macau-fashion-photography-8.jpg" muse_href="upload:U15790"/>
+    <asset filename="macau-fashion-photography-9.jpg" muse_href="upload:U15792"/>
+    <asset filename="macau-fashion-photography-10.jpg" muse_href="upload:U15794"/>
+    <asset filename="macau-fashion-photography-11.jpg" muse_href="upload:U15796"/>
+    <asset filename="_3a_00005.jpg" muse_href="upload:U15798"/>
+    <asset filename="_3a_00107.jpg" muse_href="upload:U15800"/>
+    <asset filename="_4a_00006.jpg" muse_href="upload:U15802"/>
+    <asset filename="_4a_00108.jpg" muse_href="upload:U15804"/>
+    <asset filename="---_00039.jpg" muse_href="upload:U15806"/>
+    <asset filename="---_00048.jpg" muse_href="upload:U15808"/>
+    <asset filename="_7a_00099.jpg" muse_href="upload:U15810"/>
+    <asset filename="25a_00026.jpg" muse_href="upload:U15812"/>
+    <paragraphStyle className="normal_text" uid="U49"/>
+    <paragraphStyle className="p---header-links-dark-right" uid="U328"/>
+    <paragraphStyle className="h1---heading-centered-light" uid="U398"/>
+    <paragraphStyle className="p---body-center-light" uid="U407"/>
+    <paragraphStyle className="p---btn-text-center" uid="U439"/>
+    <paragraphStyle className="p---footer-links" uid="U441"/>
+    <paragraphStyle className="h2---Left-Light" uid="U444"/>
+    <paragraphStyle className="h1---display-center-light" uid="U1965"/>
+    <paragraphStyle className="p---body-center-dark" uid="U2032"/>
+    <paragraphStyle className="p---body-left-dark" uid="U2050"/>
+    <paragraphStyle className="h2---subheading-center-light" uid="U2051"/>
+    <paragraphStyle className="h1---heading-left-light" uid="U2057"/>
+    <paragraphStyle className="h4---subheading-center-dark" uid="U2091"/>
+    <paragraphStyle className="h3---subheading-center-dark" uid="U2097"/>
+    <paragraphStyle className="h2---subheading-left-dark" uid="U2098"/>
+    <paragraphStyle className="h2---subheading-center-dark" uid="U3052"/>
+    <paragraphStyle className="h1---display-center-dark" uid="U3163"/>
+    <paragraphStyle className="h4---subheading-center-light" uid="U3164"/>
+    <paragraphStyle className="h1---display-left-dark" uid="U3621"/>
+    <paragraphStyle className="h1---display-left-light" uid="U3849"/>
+    <paragraphStyle className="h1---heading-centered-dark" uid="U3852"/>
+    <paragraphStyle className="h1---heading-left-dark" uid="U3854"/>
+    <paragraphStyle className="p---body-left-light" uid="U3855"/>
+    <paragraphStyle className="p---hyperlinks" uid="U5448"/>
+    <paragraphStyle className="p---header-links-dark-center" uid="U5472"/>
+    <paragraphStyle className="p---header-links-dark-left" uid="U6149"/>
+    <paragraphStyle className="p---header-links-light-center" uid="U7068"/>
+    <paragraphStyle className="p---header-links-light" uid="U7683"/>
+    <textLinkStyle className="footer-links" uid="U442"/>
+    <nestedListStyle className="nls-None" uid="U52"/>
+  </site>
+  <renditions>
+    <rendition device="desktop">
+      <page name="Home" filename="index.html" muse_href="page:U93" master="U72">
+        <breakpoint uid="U1929" maxwidth="480" minwidth="0" squishy="true"/>
+        <breakpoint uid="U1104" maxwidth="550" minwidth="481" squishy="true"/>
+        <breakpoint uid="U1068" maxwidth="768" minwidth="551" squishy="false"/>
+        <breakpoint uid="U1032" maxwidth="960" minwidth="769" squishy="false"/>
+        <breakpoint uid="U83" maxwidth="1200" minwidth="961" squishy="false"/>
+      </page>
+      <masterPage name="A-Master" master="U62" uid="U72">
+        <breakpoint uid="U1631" maxwidth="480" minwidth="0" squishy="true"/>
+        <breakpoint uid="U280" maxwidth="550" minwidth="481" squishy="true"/>
+        <breakpoint uid="U276" maxwidth="768" minwidth="551" squishy="false"/>
+        <breakpoint uid="U73" maxwidth="960" minwidth="769" squishy="false"/>
+        <breakpoint uid="U1466" maxwidth="1200" minwidth="961" squishy="false"/>
+      </masterPage>
+      <masterPage name="None" master="null" uid="U62">
+        <breakpoint uid="U63" maxwidth="960" minwidth="0" squishy="true"/>
+      </masterPage>
+      <page name="About" filename="about.html" muse_href="page:U2977" master="U72">
+        <breakpoint uid="U2939" maxwidth="480" minwidth="0" squishy="true"/>
+        <breakpoint uid="U2849" maxwidth="550" minwidth="481" squishy="true"/>
+        <breakpoint uid="U2882" maxwidth="768" minwidth="551" squishy="false"/>
+        <breakpoint uid="U2812" maxwidth="960" minwidth="769" squishy="false"/>
+        <breakpoint uid="U2779" maxwidth="1200" minwidth="961" squishy="false"/>
+      </page>
+      <page name="Exhibitions" filename="exhibitions.html" muse_href="page:U3580" master="U72">
+        <breakpoint uid="U3423" maxwidth="480" minwidth="0" squishy="true"/>
+        <breakpoint uid="U3463" maxwidth="550" minwidth="481" squishy="true"/>
+        <breakpoint uid="U3340" maxwidth="768" minwidth="551" squishy="false"/>
+        <breakpoint uid="U3382" maxwidth="960" minwidth="769" squishy="false"/>
+        <breakpoint uid="U3532" maxwidth="1200" minwidth="961" squishy="false"/>
+      </page>
+      <page name="Two Sportwomen" filename="two-sportwomen.html" muse_href="page:U5193" master="U72">
+        <breakpoint uid="U5145" maxwidth="480" minwidth="0" squishy="true"/>
+        <breakpoint uid="U5049" maxwidth="550" minwidth="481" squishy="true"/>
+        <breakpoint uid="U4912" maxwidth="768" minwidth="551" squishy="false"/>
+        <breakpoint uid="U4963" maxwidth="960" minwidth="769" squishy="false"/>
+        <breakpoint uid="U5098" maxwidth="1200" minwidth="961" squishy="false"/>
+      </page>
+      <page name="The Dual" filename="the-dual.html" muse_href="page:U12197" master="U72">
+        <breakpoint uid="U12025" maxwidth="480" minwidth="0" squishy="true"/>
+        <breakpoint uid="U12068" maxwidth="550" minwidth="481" squishy="true"/>
+        <breakpoint uid="U12163" maxwidth="768" minwidth="551" squishy="false"/>
+        <breakpoint uid="U12132" maxwidth="960" minwidth="769" squishy="false"/>
+        <breakpoint uid="U12100" maxwidth="1200" minwidth="961" squishy="false"/>
+      </page>
+      <page name="The Contingent Republic" filename="the-contingent-republic.html" muse_href="page:U12568" master="U72">
+        <breakpoint uid="U12537" maxwidth="480" minwidth="0" squishy="true"/>
+        <breakpoint uid="U12505" maxwidth="550" minwidth="481" squishy="true"/>
+        <breakpoint uid="U12412" maxwidth="768" minwidth="551" squishy="false"/>
+        <breakpoint uid="U12476" maxwidth="960" minwidth="769" squishy="false"/>
+        <breakpoint uid="U12443" maxwidth="1200" minwidth="961" squishy="false"/>
+      </page>
+      <page name="Coré" filename="coré.html" muse_href="page:U13387" master="U72">
+        <breakpoint uid="U13215" maxwidth="480" minwidth="0" squishy="true"/>
+        <breakpoint uid="U13258" maxwidth="550" minwidth="481" squishy="true"/>
+        <breakpoint uid="U13353" maxwidth="768" minwidth="551" squishy="false"/>
+        <breakpoint uid="U13322" maxwidth="960" minwidth="769" squishy="false"/>
+        <breakpoint uid="U13290" maxwidth="1200" minwidth="961" squishy="false"/>
+      </page>
+      <page name="Faded Grandeur" filename="faded-grandeur.html" muse_href="page:U13609" master="U72">
+        <breakpoint uid="U13545" maxwidth="480" minwidth="0" squishy="true"/>
+        <breakpoint uid="U13477" maxwidth="550" minwidth="481" squishy="true"/>
+        <breakpoint uid="U13512" maxwidth="768" minwidth="551" squishy="false"/>
+        <breakpoint uid="U13578" maxwidth="960" minwidth="769" squishy="false"/>
+        <breakpoint uid="U13446" maxwidth="1200" minwidth="961" squishy="false"/>
+      </page>
+      <page name="Doublethink" filename="doublethink.html" muse_href="page:U13820" master="U72">
+        <breakpoint uid="U13789" maxwidth="480" minwidth="0" squishy="true"/>
+        <breakpoint uid="U13757" maxwidth="550" minwidth="481" squishy="true"/>
+        <breakpoint uid="U13664" maxwidth="768" minwidth="551" squishy="false"/>
+        <breakpoint uid="U13728" maxwidth="960" minwidth="769" squishy="false"/>
+        <breakpoint uid="U13695" maxwidth="1200" minwidth="961" squishy="false"/>
+      </page>
+      <page name="Man Machine" filename="man-machine.html" muse_href="page:U14027" master="U72">
+        <breakpoint uid="U13996" maxwidth="480" minwidth="0" squishy="true"/>
+        <breakpoint uid="U13964" maxwidth="550" minwidth="481" squishy="true"/>
+        <breakpoint uid="U13871" maxwidth="768" minwidth="551" squishy="false"/>
+        <breakpoint uid="U13935" maxwidth="960" minwidth="769" squishy="false"/>
+        <breakpoint uid="U13902" maxwidth="1200" minwidth="961" squishy="false"/>
+      </page>
+      <page name="Play" filename="play.html" muse_href="page:U14244" master="U72">
+        <breakpoint uid="U14213" maxwidth="480" minwidth="0" squishy="true"/>
+        <breakpoint uid="U14181" maxwidth="550" minwidth="481" squishy="true"/>
+        <breakpoint uid="U14088" maxwidth="768" minwidth="551" squishy="false"/>
+        <breakpoint uid="U14152" maxwidth="960" minwidth="769" squishy="false"/>
+        <breakpoint uid="U14119" maxwidth="1200" minwidth="961" squishy="false"/>
+      </page>
+      <page name="Spirit of Phoenix" filename="spirit-of-phoenix.html" muse_href="page:U14449" master="U72">
+        <breakpoint uid="U14418" maxwidth="480" minwidth="0" squishy="true"/>
+        <breakpoint uid="U14386" maxwidth="550" minwidth="481" squishy="true"/>
+        <breakpoint uid="U14293" maxwidth="768" minwidth="551" squishy="false"/>
+        <breakpoint uid="U14357" maxwidth="960" minwidth="769" squishy="false"/>
+        <breakpoint uid="U14324" maxwidth="1200" minwidth="961" squishy="false"/>
+      </page>
+      <page name="A Jewel Story" filename="a-jewel-story.html" muse_href="page:U14639" master="U72">
+        <breakpoint uid="U14574" maxwidth="480" minwidth="0" squishy="true"/>
+        <breakpoint uid="U14464" maxwidth="550" minwidth="481" squishy="true"/>
+        <breakpoint uid="U14498" maxwidth="768" minwidth="551" squishy="false"/>
+        <breakpoint uid="U14607" maxwidth="960" minwidth="769" squishy="false"/>
+        <breakpoint uid="U14530" maxwidth="1200" minwidth="961" squishy="false"/>
+      </page>
+      <page name="Gothic" filename="gothic.html" muse_href="page:U14854" master="U72">
+        <breakpoint uid="U14823" maxwidth="480" minwidth="0" squishy="true"/>
+        <breakpoint uid="U14791" maxwidth="550" minwidth="481" squishy="true"/>
+        <breakpoint uid="U14698" maxwidth="768" minwidth="551" squishy="false"/>
+        <breakpoint uid="U14762" maxwidth="960" minwidth="769" squishy="false"/>
+        <breakpoint uid="U14729" maxwidth="1200" minwidth="961" squishy="false"/>
+      </page>
+      <page name="Torn" filename="torn.html" muse_href="page:U15154" master="U72">
+        <breakpoint uid="U14986" maxwidth="480" minwidth="0" squishy="true"/>
+        <breakpoint uid="U15117" maxwidth="550" minwidth="481" squishy="true"/>
+        <breakpoint uid="U15057" maxwidth="768" minwidth="551" squishy="false"/>
+        <breakpoint uid="U15088" maxwidth="960" minwidth="769" squishy="false"/>
+        <breakpoint uid="U15015" maxwidth="1200" minwidth="961" squishy="false"/>
+      </page>
+      <page name="Vegno" filename="vegno.html" muse_href="page:U15327" master="U72">
+        <breakpoint uid="U15159" maxwidth="480" minwidth="0" squishy="true"/>
+        <breakpoint uid="U15290" maxwidth="550" minwidth="481" squishy="true"/>
+        <breakpoint uid="U15230" maxwidth="768" minwidth="551" squishy="false"/>
+        <breakpoint uid="U15261" maxwidth="960" minwidth="769" squishy="false"/>
+        <breakpoint uid="U15188" maxwidth="1200" minwidth="961" squishy="false"/>
+      </page>
+      <page name="Coconut" filename="coconut.html" muse_href="page:U15500" master="U72">
+        <breakpoint uid="U15461" maxwidth="480" minwidth="0" squishy="true"/>
+        <breakpoint uid="U15334" maxwidth="550" minwidth="481" squishy="true"/>
+        <breakpoint uid="U15366" maxwidth="768" minwidth="551" squishy="false"/>
+        <breakpoint uid="U15398" maxwidth="960" minwidth="769" squishy="false"/>
+        <breakpoint uid="U15427" maxwidth="1200" minwidth="961" squishy="false"/>
+      </page>
+      <page name="The Collector" filename="the-collector.html" muse_href="page:U15684" master="U72">
+        <breakpoint uid="U15507" maxwidth="480" minwidth="0" squishy="true"/>
+        <breakpoint uid="U15542" maxwidth="550" minwidth="481" squishy="true"/>
+        <breakpoint uid="U15608" maxwidth="768" minwidth="551" squishy="false"/>
+        <breakpoint uid="U15652" maxwidth="960" minwidth="769" squishy="false"/>
+        <breakpoint uid="U15575" maxwidth="1200" minwidth="961" squishy="false"/>
+      </page>
+    </rendition>
+  </renditions>
+</manifest>
